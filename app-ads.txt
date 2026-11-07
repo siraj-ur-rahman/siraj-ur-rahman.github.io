@@ -1,0 +1,7 @@
+# app-ads.txt — IAB Tech Lab authorized sellers for apps.
+# Must stay at the ROOT of this domain: AdMob derives the URL from the
+# developer website on each Play listing and appends /app-ads.txt, so a
+# project page such as /tessera-site/ is never crawled.
+# One line covers every app on this AdMob account; the publisher ID is the
+# account's, not an individual app's.
+google.com, pub-5590812852353419, DIRECT, f08c47fec0942fa0
